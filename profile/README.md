@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <img src ="https://user-images.githubusercontent.com/90851865/163090775-476053ec-5bc1-4db6-ae9b-05d354e595ad.png" height="200">
+  <img src ="https://user-images.githubusercontent.com/90851865/163090775-476053ec-5bc1-4db6-ae9b-05d354e595ad.png" height="100">
   
   🦁금오공과대학교 멋쟁이사자처럼 10기🦁
   
