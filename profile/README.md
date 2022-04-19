@@ -20,7 +20,7 @@
 |2022.04.14| <img src="https://img.shields.io/badge/도서관 5층 세미나실-F6C915?logo=Home Assistant Community Store&logoColor=white"/>|  ⭐️special⭐️ GitHub 특강| GitHub에 과제 제출해보기|
 |2022.05.05|공지 예정| 일단 만드는 Python |공지 예정|
 |2022.05.12|공지 예정| [심화] 같이 푸는 Python |공지 예정|
-|2022.05.23~|공지 예정| 트랙별 교육 |공지 예정|
+|2022.05.19~|공지 예정| 트랙별 교육 |공지 예정|
   
  <br><br>
 
